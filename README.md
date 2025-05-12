@@ -12,12 +12,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/olowoade/SOC-Automation-Lab)">SOC Automation Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/olowoade/SOC-Automation-Lab)">SOC Automation Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/olowoade/SOC-Automation-Lab)">SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/olowoade/SOC-Automation-Lab)">SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href="https://github.com/olowoade/SOC-Automation-Lab)">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/olowoade/SOC-Automation-Lab)">SOC Automation Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/olowoade/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/olowoade/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/olowoade/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/olowoade/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/olowoade/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/olowoade/SOC-Automation-Lab">SOC Automation Lab</a>|
 
 ## Tools
 
